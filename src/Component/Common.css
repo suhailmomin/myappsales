@@ -1,0 +1,16 @@
+
+
+a{
+    display: inline-block;
+    color: rgb(241, 9, 9);
+    background-color: rgb(193, 235, 235);
+    font-size: larger;
+    text-decoration: none;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: blue;
+    border-radius: 50%;
+}
